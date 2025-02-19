@@ -2,7 +2,7 @@
     font-weight: 500;
     line-height: 1.5;
     font-family: Inter, system-ui, sans-serif;
-    --background: url('backgrounds/bg5.webp');
+    --background: url('backgrounds/bi.jpg');
 }
 
 a {
@@ -45,8 +45,8 @@ body {
 }
 
 .widget {
-    transform: scale(1.0); /* Уменьшение размера виджетов до 80% */
-    transform-origin: center center; /* Масштабирование от центра */
+    transform: scale(1.0); 
+    transform-origin: center center; 
   }
   
 
@@ -359,10 +359,18 @@ main {
 }
 
 #telegram-avatar svg {
-    width: 50px;  /* Задайте желаемую ширину */
-    height: 50px; /* Задайте желаемую высоту */
-    display: inline-block; /* Это поможет сохранить горизонтальное выравнивание */
+    width: 50px;  
+    height: 50px; 
+    display: inline-block; 
   }
+
+
+
+
+
+
+
+    
 
 
 
